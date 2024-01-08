@@ -1,0 +1,51 @@
+@media (max-width: 500px) {
+    .container {
+      padding: 10px;
+    }
+  }
+
+fieldset{
+    color:blue;
+    justify-content: flex-end;
+    display: flex;
+    margin-right: 0;
+    border-color: blue;
+    border-radius: 30px;
+}
+
+legend{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+
+.container {
+    color:blue;
+    width:98%;
+}
+
+#option1{
+    width: 20px;
+    height: 20px;
+}
+#option2{
+    width: 20px;
+    height: 20px;
+}
+#option3{
+    width: 20px;
+    height: 20px;
+}
+
+#submit{
+    height:30px;
+    width:80px;
+}
+#submit2{
+    height: 30px;
+    width: 80px;
+}
+
+

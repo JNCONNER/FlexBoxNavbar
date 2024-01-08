@@ -1,0 +1,47 @@
+h1{
+    color:red;
+}
+
+    body {
+      font-family: 'Georgia', serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: #007BFF;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+    .story {
+      font-size: 1.1rem;
+      text-align: justify;
+    }
+
+    .chapter {
+      margin-bottom: 20px;
+    }
+
+    .chapter-title {
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+
+    .chapter-content {
+      margin-bottom: 20px;
+    }
+
+    .scene {
+      margin-bottom: 10px;
+    }
+
+    .scene-content {
+      margin-bottom: 20px;
+    }
